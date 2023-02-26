@@ -76,7 +76,7 @@ body::before {
     position: absolute;
     width: 100%;
     bottom: 0;
-    transition: bottom 1s ease-in-out;
+    transition: botto   m 1s ease-in-out;
 }
 
 .s-controller {
